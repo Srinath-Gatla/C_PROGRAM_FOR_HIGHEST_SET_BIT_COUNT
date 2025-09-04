@@ -7,7 +7,7 @@ All other bits must be cleared
 
 **Example-1**
 
-**Input: ** 44        // Binary: 0000000000101100  
+**Input:** 44        // Binary: 0000000000101100  
 **Output:** 32        // Binary: 0000000000100000
 
 **Example-2**
